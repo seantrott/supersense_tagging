@@ -6,3 +6,27 @@ It was a comedic act.,act,act.n.04
 It was a desperate act.,act,act.n.02
 It was a humane act.,act,act.n.02
 It was a magic act.,act,act.n.04
+He had a legal appeal.,appeal,appeal.n.03
+He had a pending appeal.,appeal,appeal.n.03
+He had a universal appeal.,appeal,appeal.n.02
+He had an undefinable appeal.,appeal,appeal.n.02
+It was a gaseous atmosphere.,atmosphere,atmosphere.n.05
+It was a hostile atmosphere.,atmosphere,atmosphere.n.01
+It was a polluted atmosphere.,atmosphere,atmosphere.n.04
+It was a tense atmosphere.,atmosphere,atmosphere.n.01
+He bailed out the defendant.,bail,bail.v.01
+He bailed out the liquid.,bail,bail.v.05
+He bailed out the prisoner.,bail,bail.v.01
+He bailed out the water.,bail,bail.v.05
+It was a country band.,band,dance_band.n.01
+It was a gold band.,band,ring.n.08
+It was a jazz band.,band,band.n.02
+It was a rubber band.,band,band.n.11
+He banked the cash.,bank,deposit.v.02
+He banked the helicopter.,bank,bank.v.01
+He banked the money.,bank,deposit.v.02
+He banked the plane.,bank,bank.v.01
+There was a concrete barrier.,barrier.n.03
+There was a language barrier.,barrier.n.02
+There was a police barrier.,barrier,barrier.n.01
+There was a religious barrier.,barrier,barrier.n.02
