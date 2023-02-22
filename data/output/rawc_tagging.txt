@@ -30,3 +30,5 @@ There was a concrete barrier.,barrier.n.03
 There was a language barrier.,barrier.n.02
 There was a police barrier.,barrier,barrier.n.01
 There was a religious barrier.,barrier,barrier.n.02
+He saw the balance beam.,beam,balance_beam.n.01
+He saw the bright beam.,beam,beam.n.04
