@@ -58,3 +58,12 @@ They ate a family breakfast.,breakfast,breakfast.n.01
 They ate a lonely breakfast.,breakfast,breakfast.n.01
 They ate a nutritious breakfast.,breakfast,breakfast.n.01
 They ate a pancake breakfast.,breakfast,breakfast.n.01
+They called the debt.,call,other
+They called the landlord.,call,call.v.03
+They called the loan.,call,other
+They called the police.,call,call.v.03
+It was a flowing cape.,cape,cape.n.02
+It was a red cape.,cape,cape.n.02
+It was a rocky cape.,cape,cape.n.01
+It was an island cape.,cape,cape.n.01
+It was a beer case.,case,case.n.05
