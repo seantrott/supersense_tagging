@@ -34,3 +34,27 @@ He saw the balance beam.,beam,balance_beam.n.01
 He saw the bright beam.,beam,beam.n.04
 He saw the laser beam.,beam,beam.n.03
 He saw the wood beam.,beam,beam.n.02
+She had a mental block.,block,block.n.07
+She had a toy block.,block,block.n.03
+She had a wooden block.,block,block.n.01
+She had a writer's block.,block,block.n.07
+He has coagulated blood.,blood,blood.n.01
+He has noble blood.,blood,blood.n.02
+He has royal blood.,blood,lineage.n.01
+He has thin blood.,blood,blood.n.01
+It was the executive board.,board,board.n.01
+It was the ironing board.,board,board.n.03
+It was the school board.,board,board.n.01
+It was the wooden board.,board,board.n.02
+He had a best-selling book.,book,book.n.01
+He had a heavy book.,book,other
+He had a leather-bound book.,book,other
+He had a popular book.,book,other
+He broke the dish.,break,break.v.05
+He broke the glass.,break,break.v.05
+He broke the law.,break,transgress.v.01
+He broke the promise.,break,violate.v.01
+They ate a family breakfast.,breakfast,breakfast.n.01
+They ate a lonely breakfast.,breakfast,breakfast.n.01
+They ate a nutritious breakfast.,breakfast,breakfast.n.01
+They ate a pancake breakfast.,breakfast,breakfast.n.01
