@@ -67,3 +67,14 @@ It was a red cape.,cape,cape.n.02
 It was a rocky cape.,cape,cape.n.01
 It was an island cape.,cape,cape.n.01
 It was a beer case.,case,case.n.05
+It was a criminal case.,case,lawsuit.n.01
+It was a display case.,case,case.n.20
+It was a divorce case.,case,lawsuit.n.01
+She cast a glow.,cast,project.v.10
+She cast a shadow.,cast,project.v.10
+She cast a spear.,cast,hurl.v.01
+She cast a stone.,cast,hurl.v.01
+It was a main cause.,cause,other
+It was a political cause.,cause,campaign.n.02
+It was a primary cause.,cause,causal_agent.n.01
+It was a worthy cause.,cause,cause.n.02
