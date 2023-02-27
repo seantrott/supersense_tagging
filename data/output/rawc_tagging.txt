@@ -2,7 +2,3 @@ He saw a fruit bat.,bat,bat.n.01
 He saw a furry bat.,bat,bat.n.01
 He saw a baseball bat.,bat,bat.n.05
 He saw a wooden bat.,bat,bat.n.05
-It was a comedic act.,act,act.n.04
-It was a desperate act.,act,act.n.02
-It was a humane act.,act,act.n.02
-It was a magic act.,act,act.n.04
