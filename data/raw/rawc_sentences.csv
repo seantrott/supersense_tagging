@@ -1,449 +1,449 @@
-word,sentence,context,supersense_IO,comments,Class
-bat,He saw a fruit bat.,M1_b,animal,,N
-bat,He saw a furry bat.,M1_a,animal,,N
-bat,He saw a baseball bat.,M2_b,artifact,,N
-bat,He saw a wooden bat.,M2_a,artifact,,N
-act,It was a comedic act.,M2_b,,,N
-act,It was a desperate act.,M1_a,,,N
-act,It was a humane act.,M1_b,,,N
-act,It was a magic act.,M2_a,,,N
-appeal,He had a legal appeal.,M2_a,,,N
-appeal,He had a pending appeal.,M2_b,,,N
-appeal,He had a universal appeal.,M1_a,,,N
-appeal,He had an undefinable appeal.,M1_b,,,N
-atmosphere,It was a gaseous atmosphere.,M2_a,,,N
-atmosphere,It was a hostile atmosphere.,M1_b,,,N
-atmosphere,It was a polluted atmosphere.,M2_b,,,N
-atmosphere,It was a tense atmosphere.,M1_a,,,N
-bail,He bailed out the defendant.,M1_b,,,V
-bail,He bailed out the liquid.,M2_b,,,V
-bail,He bailed out the prisoner.,M1_a,,,V
-bail,He bailed out the water.,M2_a,,,V
-band,It was a country band.,M2_b,,,N
-band,It was a gold band.,M1_a,,,N
-band,It was a jazz band.,M2_a,,,N
-band,It was a rubber band.,M1_b,,,N
-bank,He banked the cash.,M2_b,,,V
-bank,He banked the helicopter.,M1_b,,,V
-bank,He banked the money.,M2_a,,,V
-bank,He banked the plane.,M1_a,,,V
-barrier,There was a concrete barrier.,M1_b,,,N
-barrier,There was a language barrier.,M2_a,,,N
-barrier,There was a police barrier.,M1_a,,,N
-barrier,There was a religious barrier.,M2_b,,,N
-beam,He saw the balance beam.,M2_b,,,N
-beam,He saw the bright beam.,M1_b,,,N
-beam,He saw the laser beam.,M1_a,,,N
-beam,He saw the wood beam.,M2_a,,,N
-block,She had a mental block.,M2_a,,,N
-block,She had a toy block.,M1_a,,,N
-block,She had a wooden block.,M1_b,,,N
-block,She had a writer's block.,M2_b,,,N
-blood,He has coagulated blood.,M1_a,,,N
-blood,He has noble blood.,M2_a,,,N
-blood,He has royal blood.,M2_b,,,N
-blood,He has thin blood.,M1_b,,,N
-board,It was the executive board.,M2_a,,,N
-board,It was the ironing board.,M1_a,,,N
-board,It was the school board.,M2_b,,,N
-board,It was the wooden board.,M1_b,,,N
-book,He had a best-selling book.,M1_a,,,N
-book,He had a heavy book.,M2_a,,,N
-book,He had a leather-bound book.,M2_b,,,N
-book,He had a popular book.,M1_b,,,N
-break,He broke the dish.,M1_b,,,V
-break,He broke the glass.,M1_a,,,V
-break,He broke the law.,M2_a,,,V
-break,He broke the promise.,M2_b,,,V
-breakfast,They ate a family breakfast.,M2_a,,,N
-breakfast,They ate a lonely breakfast.,M2_b,,,N
-breakfast,They ate a nutritious breakfast.,M1_b,,,N
-breakfast,They ate a pancake breakfast.,M1_a,,,N
-call,They called the debt.,M2_b,,,V
-call,They called the landlord.,M1_a,,,V
-call,They called the loan.,M2_a,,,V
-call,They called the police.,M1_b,,,V
-cape,It was a flowing cape.,M1_b,,,N
-cape,It was a red cape.,M1_a,,,N
-cape,It was a rocky cape.,M2_a,,,N
-cape,It was an island cape.,M2_b,,,N
-case,It was a beer case.,M1_a,,,N
-case,It was a criminal case.,M2_b,,,N
-case,It was a display case.,M1_b,,,N
-case,It was a divorce case.,M2_a,,,N
-cast,She cast a glow.,M1_b,,,V
-cast,She cast a shadow.,M1_a,,,V
-cast,She cast a spear.,M2_a,,,V
-cast,She cast a stone.,M2_b,,,V
-cause,It was a main cause.,M2_a,,,N
-cause,It was a political cause.,M1_b,,,N
-cause,It was a primary cause.,M2_b,,,N
-cause,It was a worthy cause.,M1_a,,,N
-cell,It was a brain cell.,M1_b,,,N
-cell,It was a jail cell.,M2_b,,,N
-cell,It was a prison cell.,M2_a,,,N
-cell,It was a skin cell.,M1_a,,,N
-charm,She had a devilish charm.,M1_a,,,N
-charm,She had a gold charm.,M2_a,,,N
-charm,She had a good-luck charm.,M2_b,,,N
-charm,She had a natural charm.,M1_b,,,N
-check,He checked the alibi.,M2_a,,,V
-check,He checked the engine.,M1_a,,,V
-check,He checked the facts.,M2_b,,,V
-check,He checked the oven.,M1_b,,,V
-chicken,They liked the clucking chicken.,M2_a,,,N
-chicken,They liked the juicy chicken.,M1_a,,,N
-chicken,They liked the pet chicken.,M2_b,,,N
-chicken,They liked the roasted chicken.,M1_b,,,N
-class,It was a boring class.,M2_a,,,N
-class,It was a misbehaving class.,M1_b,,,N
-class,It was a perceptive class.,M1_a,,,N
-class,It was a stimulating class.,M2_b,,,N
-clear,He cleared the desk.,M1_a,,,V
-clear,He cleared the path.,M2_a,,,V
-clear,He cleared the road.,M2_b,,,V
-clear,He cleared the shelf.,M1_b,,,V
-clip,It was a film clip.,M1_a,,,N
-clip,It was a hair clip.,M2_a,,,N
-clip,It was a metal clip.,M2_b,,,N
-clip,It was a video clip.,M1_b,,,N
-clog,The choreographer clogged.,M1_b,,,V
-clog,The dancer clogged.,M1_a,,,V
-clog,The pipe clogged.,M2_a,,,V
-clog,The sink clogged.,M2_b,,,V
-cold,It was a chest cold.,M2_a,,,N
-cold,It was a common cold.,M2_b,,,N
-cold,It was a freezing cold.,M1_b,,,N
-cold,It was an icy cold.,M1_a,,,N
-column,It was a concrete column.,M2_a,,,N
-column,It was a gossip column.,M1_a,,,N
-column,It was a marble column.,M2_b,,,N
-column,It was a sports column.,M1_b,,,N
-company,He liked the investment company.,M1_a,,,N
-company,He liked the pharmaceutical company.,M1_b,,,N
-company,He liked the pleasant company.,M2_a,,,N
-company,He liked the polite company.,M2_b,,,N
-cone,It was a sugar cone.,M1_b,,,N
-cone,It was a traffic cone.,M2_b,,,N
-cone,It was a waffle cone.,M1_a,,,N
-cone,It was an orange cone.,M2_a,,,N
-contribution,He made a charitable contribution.,M1_a,,,N
-contribution,He made a scholarly contribution.,M2_a,,,N
-contribution,He made a voluntary contribution.,M1_b,,,N
-contribution,He made a well-written contribution.,M2_b,,,N
-count,That was the correct count.,M2_b,,,N
-count,That was the final count.,M2_a,,,N
-count,That was the noble count.,M1_a,,,N
-count,That was the vengeful count.,M1_b,,,N
-course,It was a charted course.,M2_a,,,N
-course,It was a collision course.,M2_b,,,N
-course,It was a pass-fail course.,M1_b,,,N
-course,It was an introductory course.,M1_a,,,N
-cross,He crossed a friend.,M2_b,,,V
-cross,He crossed a road.,M1_a,,,V
-cross,He crossed a room.,M1_b,,,V
-cross,He crossed an enemy.,M2_a,,,V
-date,It was a blind date.,M1_b,,,N
-date,It was a dinner date.,M1_a,,,N
-date,It was a historical date.,M2_b,,,N
-date,It was an expiration date.,M2_a,,,N
-degree,It was about associate degrees.,M2_a,,,N
-degree,It was about college degrees.,M2_b,,,N
-degree,It was about fifty degrees.,M1_b,,,N
-degree,It was about forty degrees.,M1_a,,,N
-design,They liked the architectural design.,M2_b,,,N
-design,They liked the floral design.,M1_a,,,N
-design,They liked the geometric design.,M1_b,,,N
-design,They liked the product design.,M2_a,,,N
-dinner,They liked the anniversary dinner.,M2_b,,,N
-dinner,They liked the formal dinner.,M2_a,,,N
-dinner,They liked the light dinner.,M1_b,,,N
-dinner,They liked the turkey dinner.,M1_a,,,N
-drain,They drained the account.,M1_a,,,V
-drain,They drained the budget.,M1_b,,,V
-drain,They drained the pond.,M2_b,,,V
-drain,They drained the pool.,M2_a,,,V
-draw,He drew a gun.,M1_a,,,V
-draw,He drew a sword.,M1_b,,,V
-draw,He drew a tree.,M2_a,,,V
-draw,They drew a picture.,M2_b,,,V
-dream,He had a bad dream.,M1_b,,,N
-dream,He had a career dream.,M2_b,,,N
-dream,He had a childhood dream.,M2_a,,,N
-dream,He had a recurring dream.,M1_a,,,N
-drill,It was a battery-powered drill.,M2_b,,,N
-drill,It was a challenging drill.,M1_b,,,N
-drill,It was a grueling drill.,M1_a,,,N
-drill,It was an electric drill.,M2_a,,,N
-examination,It was a difficult examination.,M1_b,,,N
-examination,It was a multiple-choice examination.,M1_a,,,N
-examination,It was a physical examination.,M2_b,,,N
-examination,It was a prostate examination.,M2_a,,,N
-fan,They had a ceiling fan.,M1_b,,,N
-fan,They had a zealous fan.,M2_a,,,N
-fan,They had an electric fan.,M1_a,,,N
-fan,They had an enthusiastic fan.,M2_b,,,N
-file,She had a data file.,M1_b,,,N
-file,She had a nail file.,M2_a,,,N
-file,She had a steel file.,M2_b,,,N
-file,She had a text file.,M1_a,,,N
-film,It was a censored film.,M1_b,,,N
-film,It was a plastic film.,M2_b,,,N
-film,It was a transparent film.,M2_a,,,N
-film,It was an action film.,M1_a,,,N
-fix,They fixed the date.,M2_a,,,V
-fix,They fixed the dishwasher.,M1_b,,,V
-fix,They fixed the price.,M2_b,,,V
-fix,They fixed the radio.,M1_a,,,V
-foundation,It was a charitable foundation.,M1_a,,,N
-foundation,It was a concrete foundation.,M2_b,,,N
-foundation,It was a wooden foundation.,M2_a,,,N
-foundation,It was an educational foundation.,M1_b,,,N
-function,It was a business function.,M2_b,,,N
-function,It was a linear function.,M1_b,,,N
-function,It was a mathematical function.,M1_a,,,N
-function,It was a social function.,M2_a,,,N
-ground,He was on the camp ground.,M2_a,,,N
-ground,He was on the firm ground.,M1_a,,,N
-ground,He was on the frozen ground.,M1_b,,,N
-ground,He was on the parade ground.,M2_b,,,N
-guard,They liked the coast guard.,M2_a,,,N
-guard,They liked the national guard.,M2_b,,,N
-guard,They liked the night guard.,M1_a,,,N
-guard,They liked the security guard.,M1_b,,,N
-guide,He had a friendly guide.,M2_b,,,N
-guide,He had a talkative guide.,M2_a,,,N
-guide,He had a TV guide.,M1_b,,,N
-guide,He had an assembly guide.,M1_a,,,N
-hail,They hailed a cab.,M1_a,,,V
-hail,They hailed a friend.,M2_a,,,V
-hail,They hailed a guest.,M2_b,,,V
-hail,They hailed a taxi.,M1_b,,,V
-home,It was a childhood home.,M1_b,,,N
-home,It was a funeral home.,M2_a,,,N
-home,It was a nursing home.,M2_b,,,N
-home,It was a summer home.,M1_a,,,N
-intelligence,They had classified intelligence.,M2_a,,,N
-intelligence,They had innate intelligence.,M1_b,,,N
-intelligence,They had military intelligence.,M2_b,,,N
-intelligence,They had natural intelligence.,M1_a,,,N
-issue,It was a political issue.,M1_b,,,N
-issue,It was a sensitive issue.,M1_a,,,N
-issue,It was a special issue.,M2_b,,,N
-issue,It was a weekly issue.,M2_a,,,N
-jam,It was a blackberry jam.,M1_a,,,N
-jam,It was a paper jam.,M2_b,,,N
-jam,It was a peach jam.,M1_b,,,N
-jam,It was a traffic jam.,M2_a,,,N
-key,It was a backspace key.,M2_b,,,N
-key,It was a delete key.,M2_a,,,N
-key,It was a duplicate key.,M1_a,,,N
-key,It was a master key.,M1_b,,,N
-lamb,They liked the cute lamb.,M2_a,,,N
-lamb,They liked the friendly lamb.,M2_b,,,N
-lamb,They liked the grilled lamb.,M1_b,,,N
-lamb,They liked the marinated lamb.,M1_a,,,N
-lap,She lapped the competitors.,M2_b,,,V
-lap,She lapped the milk.,M1_a,,,V
-lap,She lapped the runners.,M2_a,,,V
-lap,She lapped the water.,M1_b,,,V
-load,She loaded the gun.,M1_a,,,V
-load,She loaded the rifle.,M1_b,,,V
-load,She loaded the truck.,M2_a,,,V
-load,She loaded the van.,M2_b,,,V
-lock,She had brown locks.,M1_b,,,N
-lock,She had curly locks.,M1_a,,,N
-lock,She had door locks.,M2_b,,,N
-lock,She had window locks.,M2_a,,,N
-lunch,They liked the afternoon lunch.,M2_a,,,N
-lunch,They liked the hot lunch.,M1_a,,,N
-lunch,They liked the sandwich lunch.,M1_b,,,N
-lunch,They liked the women's lunch.,M2_b,,,N
-market,He liked the fish market.,M1_b,,,N
-market,He liked the flea market.,M1_a,,,N
-market,He liked the housing market.,M2_a,,,N
-market,He liked the stock market.,M2_b,,,N
-match,It was a burning match.,M1_b,,,N
-match,It was a lit match.,M1_a,,,N
-match,It was a soccer match.,M2_a,,,N
-match,It was a tennis match.,M2_b,,,N
-medicine,It was cough medicine.,M1_a,,,N
-medicine,It was orthopedic medicine.,M2_a,,,N
-medicine,It was prescription medicine.,M1_b,,,N
-medicine,It was veterinary medicine.,M2_b,,,N
-message,There was a clear message.,M2_b,,,N
-message,There was a computer message.,M1_b,,,N
-message,There was a phone message.,M1_a,,,N
-message,There was an urgent message.,M2_a,,,N
-mold,It was a clay mold.,M2_b,,,N
-mold,It was a fungal mold.,M1_a,,,N
-mold,It was a harmful mold.,M1_b,,,N
-mold,It was a rubber mold.,M2_a,,,N
-mole,She saw the cancerous mole.,M1_a,,,N
-mole,She saw the cute mole.,M2_a,,,N
-mole,She saw the fast mole.,M2_b,,,N
-mole,She saw the raised mole.,M1_b,,,N
-movement,He liked the civil-rights movement.,M2_b,,,N
-movement,He liked the feminist movement.,M2_a,,,N
-movement,He liked the graceful movement.,M1_b,,,N
-movement,He liked the rhythmic movement.,M1_a,,,N
-newspaper,It was a daily newspaper.,M1_b,,,N
-newspaper,It was a faded newspaper.,M2_a,,,N
-newspaper,It was a national newspaper.,M1_a,,,N
-newspaper,It was a shredded newspaper.,M2_b,,,N
-orange,It was a bright orange.,M2_a,,,N
-orange,It was a juicy orange.,M1_a,,,N
-orange,It was a reddish orange.,M2_b,,,N
-orange,It was a ripe orange.,M1_b,,,N
-page,He saw the blank page.,M2_a,,,N
-page,He saw the loyal page.,M1_b,,,N
-page,He saw the ripped page.,M2_b,,,N
-page,He saw the young page.,M1_a,,,N
-palm,It was a calloused palm.,M1_a,,,N
-palm,It was a tree palm.,M2_b,,,N
-palm,It was a tropical palm.,M2_a,,,N
-palm,It was a wrinkled palm.,M1_b,,,N
-panel,It was a consumer panel.,M2_b,,,N
-panel,It was a control panel.,M1_a,,,N
-panel,It was an advisory panel.,M2_a,,,N
-panel,It was an instrument panel.,M1_b,,,N
-passage,It was a biblical passage.,M2_b,,,N
-passage,It was a literary passage.,M2_a,,,N
-passage,It was a narrow passage.,M1_b,,,N
-passage,It was a secret passage.,M1_a,,,N
-pen,She penned her animals.,M1_a,,,V
-pen,She penned her livestock.,M1_b,,,V
-pen,She penned her memoirs.,M2_a,,,V
-pen,She penned her thoughts.,M2_b,,,V
-perch,It was a freshwater perch.,M1_b,,,N
-perch,It was a lofty perch.,M2_a,,,N
-perch,It was a secure perch.,M2_b,,,N
-perch,It was a tasty perch.,M1_a,,,N
-pick,He picked his coffee.,M1_a,,,V
-pick,He picked his dinner.,M1_b,,,V
-pick,He picked his nose.,M2_b,,,V
-pick,He picked his scab.,M2_a,,,V
-pitcher,He saw the fast pitcher.,M1_a,,,N
-pitcher,He saw the glass pitcher.,M2_a,,,N
-pitcher,He saw the plastic pitcher.,M2_b,,,N
-pitcher,He saw the right-handed pitcher.,M1_b,,,N
-poach,She poached the bear.,M1_b,,,V
-poach,She poached the deer.,M1_a,,,V
-poach,She poached the eggs.,M2_a,,,V
-poach,She poached the vegetables.,M2_b,,,V
-port,It was a delicious port.,M2_a,,,N
-port,It was a seaside port.,M1_b,,,N
-port,It was a sweet port.,M2_b,,,N
-port,It was a windy port.,M1_a,,,N
-position,He was in a distinguished position.,M1_a,,,N
-position,He was in a fetal position.,M2_a,,,N
-position,He was in a prominent position.,M1_b,,,N
-position,He was in a yoga position.,M2_b,,,N
-post,It was a challenging post.,M2_b,,,N
-post,It was a fence post.,M1_b,,,N
-post,It was a teaching post.,M2_a,,,N
-post,It was a wooden post.,M1_a,,,N
-punch,He had the alcoholic punch.,M1_a,,,N
-punch,He had the fruit punch.,M1_b,,,N
-punch,He had the quickest punch.,M2_b,,,N
-punch,He had the strongest punch.,M2_a,,,N
-pupil,She had a brilliant pupil.,M1_a,,,N
-pupil,She had a cloudy pupil.,M2_b,,,N
-pupil,She had a dilated pupil.,M2_a,,,N
-pupil,She had an interested pupil.,M1_b,,,N
-push,He pushed the bed.,M2_a,,,V
-push,He pushed the cocaine.,M1_a,,,V
-push,He pushed the desk.,M2_b,,,V
-push,He pushed the drugs.,M1_b,,,V
-racket,That was a badminton racket.,M2_a,,,N
-racket,That was a loud racket.,M1_a,,,N
-racket,That was a tennis racket.,M2_b,,,N
-racket,That was an annoying racket.,M1_b,,,N
-rock,He liked alternative rock.,M1_b,,,N
-rock,He liked electronic rock.,M1_a,,,N
-rock,He liked granite rock.,M2_b,,,N
-rock,He liked limestone rock.,M2_a,,,N
-run,She ran the company.,M2_b,,,V
-run,She ran the marathon.,M1_a,,,V
-run,She ran the race.,M1_b,,,V
-run,She ran the shop.,M2_a,,,V
-sage,He saw the bushy sage.,M2_b,,,N
-sage,He saw the fragrant sage.,M2_a,,,N
-sage,He saw the renowned sage.,M1_b,,,N
-sage,He saw the wise sage.,M1_a,,,N
-scale,It was a fish scale.,M1_a,,,N
-scale,It was a lizard scale.,M1_b,,,N
-scale,It was a major scale.,M2_b,,,N
-scale,It was a music scale.,M2_a,,,N
-scene,It was a nature scene.,M2_a,,,N
-scene,It was a panoramic scene.,M2_b,,,N
-scene,It was a touching scene.,M1_a,,,N
-scene,It was a well-acted scene.,M1_b,,,N
-seal,It was a certified seal.,M1_b,,,N
-seal,It was a circus seal.,M2_a,,,N
-seal,It was a gold seal.,M1_a,,,N
-seal,It was a trained seal.,M2_b,,,N
-serve,She served a lasagna.,M1_b,,,V
-serve,She served a pie.,M1_a,,,V
-serve,She served a summons.,M2_a,,,V
-serve,She served a warrant.,M2_b,,,V
-sing,The bird sang.,M2_a,,,V
-sing,The choir sang.,M1_b,,,V
-sing,The cricket sang.,M2_b,,,V
-sing,The girl sang.,M1_a,,,V
-spill,He spilled the drink.,M1_a,,,V
-spill,He spilled the flour.,M1_b,,,V
-spill,He spilled the news.,M2_a,,,V
-spill,He spilled the secret.,M2_b,,,V
-stake,He staked his claim.,M2_b,,,V
-stake,He staked his horse.,M1_a,,,V
-stake,He staked his name.,M2_a,,,V
-stake,He staked his tent.,M1_b,,,V
-stall,They stalled the bus.,M1_b,,,V
-stall,They stalled the horse.,M2_a,,,V
-stall,They stalled the pig.,M2_b,,,V
-stall,They stalled the truck.,M1_a,,,V
-stay,They stayed cold.,M1_b,,,V
-stay,They stayed nearby.,M2_a,,,V
-stay,They stayed overnight.,M2_b,,,V
-stay,They stayed wet.,M1_a,,,V
-tap,He tapped the beer.,M1_b,,,V
-tap,He tapped the drums.,M2_b,,,V
-tap,He tapped the keg.,M1_a,,,V
-tap,He tapped the stick.,M2_a,,,V
-tape,He used the double-sided tape.,M1_b,,,N
-tape,He used the interview tape.,M2_a,,,N
-tape,He used the scotch tape.,M1_a,,,N
-tape,He used the video tape.,M2_b,,,N
-term,It was a fall term.,M1_b,,,N
-term,It was a legal term.,M2_a,,,N
-term,It was a technical term.,M2_b,,,N
-term,It was a winter term.,M1_a,,,N
-tick,It was a clock tick.,M1_a,,,N
-tick,It was a diseased tick.,M2_b,,,N
-tick,It was a parasitic tick.,M2_a,,,N
-tick,It was an audible tick.,M1_b,,,N
-tip,It was a finger tip.,M2_b,,,N
-tip,It was a generous tip.,M1_a,,,N
-tip,It was a pencil tip.,M2_a,,,N
-tip,It was a stingy tip.,M1_b,,,N
-title,She liked the academic title.,M2_a,,,N
-title,She liked the essay title.,M1_a,,,N
-title,She liked the poem title.,M1_b,,,N
-title,She liked the professional title.,M2_b,,,N
-toast,They toasted the bread.,M1_a,,,V
-toast,They toasted the bride.,M2_b,,,V
-toast,They toasted the host.,M2_a,,,V
-toast,They toasted the strudel.,M1_b,,,V
-toll,It was a bell toll.,M2_b,,,N
-toll,It was a costly toll.,M1_a,,,N
-toll,It was a loud toll.,M2_a,,,N
-toll,It was a road toll.,M1_b,,,N
-track,She saw the moose tracks.,M2_a,,,N
-track,She saw the snowshoe tracks.,M2_b,,,N
-track,She saw the train tracks.,M1_a,,,N
-track,She saw the trolley tracks.,M1_b,,,N
-yard,It was five yards.,M1_a,,,N
-yard,It was ten yards.,M1_b,,,N
-yard,They were big yards.,M2_a,,,N
-yard,They were cluttered yards.,M2_b,,,N
+word,sentence,context,Class
+bat,He saw a fruit bat.,M1_b,N
+bat,He saw a furry bat.,M1_a,N
+bat,He saw a baseball bat.,M2_b,N
+bat,He saw a wooden bat.,M2_a,N
+act,It was a comedic act.,M2_b,N
+act,It was a desperate act.,M1_a,N
+act,It was a humane act.,M1_b,N
+act,It was a magic act.,M2_a,N
+appeal,He had a legal appeal.,M2_a,N
+appeal,He had a pending appeal.,M2_b,N
+appeal,He had a universal appeal.,M1_a,N
+appeal,He had an undefinable appeal.,M1_b,N
+atmosphere,It was a gaseous atmosphere.,M2_a,N
+atmosphere,It was a hostile atmosphere.,M1_b,N
+atmosphere,It was a polluted atmosphere.,M2_b,N
+atmosphere,It was a tense atmosphere.,M1_a,N
+bail,He bailed out the defendant.,M1_b,V
+bail,He bailed out the liquid.,M2_b,V
+bail,He bailed out the prisoner.,M1_a,V
+bail,He bailed out the water.,M2_a,V
+band,It was a country band.,M2_b,N
+band,It was a gold band.,M1_a,N
+band,It was a jazz band.,M2_a,N
+band,It was a rubber band.,M1_b,N
+bank,He banked the cash.,M2_b,V
+bank,He banked the helicopter.,M1_b,V
+bank,He banked the money.,M2_a,V
+bank,He banked the plane.,M1_a,V
+barrier,There was a concrete barrier.,M1_b,N
+barrier,There was a language barrier.,M2_a,N
+barrier,There was a police barrier.,M1_a,N
+barrier,There was a religious barrier.,M2_b,N
+beam,He saw the balance beam.,M2_b,N
+beam,He saw the bright beam.,M1_b,N
+beam,He saw the laser beam.,M1_a,N
+beam,He saw the wood beam.,M2_a,N
+block,She had a mental block.,M2_a,N
+block,She had a toy block.,M1_a,N
+block,She had a wooden block.,M1_b,N
+block,She had a writer's block.,M2_b,N
+blood,He has coagulated blood.,M1_a,N
+blood,He has noble blood.,M2_a,N
+blood,He has royal blood.,M2_b,N
+blood,He has thin blood.,M1_b,N
+board,It was the executive board.,M2_a,N
+board,It was the ironing board.,M1_a,N
+board,It was the school board.,M2_b,N
+board,It was the wooden board.,M1_b,N
+book,He had a best-selling book.,M1_a,N
+book,He had a heavy book.,M2_a,N
+book,He had a leather-bound book.,M2_b,N
+book,He had a popular book.,M1_b,N
+break,He broke the dish.,M1_b,V
+break,He broke the glass.,M1_a,V
+break,He broke the law.,M2_a,V
+break,He broke the promise.,M2_b,V
+breakfast,They ate a family breakfast.,M2_a,N
+breakfast,They ate a lonely breakfast.,M2_b,N
+breakfast,They ate a nutritious breakfast.,M1_b,N
+breakfast,They ate a pancake breakfast.,M1_a,N
+call,They called the debt.,M2_b,V
+call,They called the landlord.,M1_a,V
+call,They called the loan.,M2_a,V
+call,They called the police.,M1_b,V
+cape,It was a flowing cape.,M1_b,N
+cape,It was a red cape.,M1_a,N
+cape,It was a rocky cape.,M2_a,N
+cape,It was an island cape.,M2_b,N
+case,It was a beer case.,M1_a,N
+case,It was a criminal case.,M2_b,N
+case,It was a display case.,M1_b,N
+case,It was a divorce case.,M2_a,N
+cast,She cast a glow.,M1_b,V
+cast,She cast a shadow.,M1_a,V
+cast,She cast a spear.,M2_a,V
+cast,She cast a stone.,M2_b,V
+cause,It was a main cause.,M2_a,N
+cause,It was a political cause.,M1_b,N
+cause,It was a primary cause.,M2_b,N
+cause,It was a worthy cause.,M1_a,N
+cell,It was a brain cell.,M1_b,N
+cell,It was a jail cell.,M2_b,N
+cell,It was a prison cell.,M2_a,N
+cell,It was a skin cell.,M1_a,N
+charm,She had a devilish charm.,M1_a,N
+charm,She had a gold charm.,M2_a,N
+charm,She had a good-luck charm.,M2_b,N
+charm,She had a natural charm.,M1_b,N
+check,He checked the alibi.,M2_a,V
+check,He checked the engine.,M1_a,V
+check,He checked the facts.,M2_b,V
+check,He checked the oven.,M1_b,V
+chicken,They liked the clucking chicken.,M2_a,N
+chicken,They liked the juicy chicken.,M1_a,N
+chicken,They liked the pet chicken.,M2_b,N
+chicken,They liked the roasted chicken.,M1_b,N
+class,It was a boring class.,M2_a,N
+class,It was a misbehaving class.,M1_b,N
+class,It was a perceptive class.,M1_a,N
+class,It was a stimulating class.,M2_b,N
+clear,He cleared the desk.,M1_a,V
+clear,He cleared the path.,M2_a,V
+clear,He cleared the road.,M2_b,V
+clear,He cleared the shelf.,M1_b,V
+clip,It was a film clip.,M1_a,N
+clip,It was a hair clip.,M2_a,N
+clip,It was a metal clip.,M2_b,N
+clip,It was a video clip.,M1_b,N
+clog,The choreographer clogged.,M1_b,V
+clog,The dancer clogged.,M1_a,V
+clog,The pipe clogged.,M2_a,V
+clog,The sink clogged.,M2_b,V
+cold,It was a chest cold.,M2_a,N
+cold,It was a common cold.,M2_b,N
+cold,It was a freezing cold.,M1_b,N
+cold,It was an icy cold.,M1_a,N
+column,It was a concrete column.,M2_a,N
+column,It was a gossip column.,M1_a,N
+column,It was a marble column.,M2_b,N
+column,It was a sports column.,M1_b,N
+company,He liked the investment company.,M1_a,N
+company,He liked the pharmaceutical company.,M1_b,N
+company,He liked the pleasant company.,M2_a,N
+company,He liked the polite company.,M2_b,N
+cone,It was a sugar cone.,M1_b,N
+cone,It was a traffic cone.,M2_b,N
+cone,It was a waffle cone.,M1_a,N
+cone,It was an orange cone.,M2_a,N
+contribution,He made a charitable contribution.,M1_a,N
+contribution,He made a scholarly contribution.,M2_a,N
+contribution,He made a voluntary contribution.,M1_b,N
+contribution,He made a well-written contribution.,M2_b,N
+count,That was the correct count.,M2_b,N
+count,That was the final count.,M2_a,N
+count,That was the noble count.,M1_a,N
+count,That was the vengeful count.,M1_b,N
+course,It was a charted course.,M2_a,N
+course,It was a collision course.,M2_b,N
+course,It was a pass-fail course.,M1_b,N
+course,It was an introductory course.,M1_a,N
+cross,He crossed a friend.,M2_b,V
+cross,He crossed a road.,M1_a,V
+cross,He crossed a room.,M1_b,V
+cross,He crossed an enemy.,M2_a,V
+date,It was a blind date.,M1_b,N
+date,It was a dinner date.,M1_a,N
+date,It was a historical date.,M2_b,N
+date,It was an expiration date.,M2_a,N
+degree,It was about associate degrees.,M2_a,N
+degree,It was about college degrees.,M2_b,N
+degree,It was about fifty degrees.,M1_b,N
+degree,It was about forty degrees.,M1_a,N
+design,They liked the architectural design.,M2_b,N
+design,They liked the floral design.,M1_a,N
+design,They liked the geometric design.,M1_b,N
+design,They liked the product design.,M2_a,N
+dinner,They liked the anniversary dinner.,M2_b,N
+dinner,They liked the formal dinner.,M2_a,N
+dinner,They liked the light dinner.,M1_b,N
+dinner,They liked the turkey dinner.,M1_a,N
+drain,They drained the account.,M1_a,V
+drain,They drained the budget.,M1_b,V
+drain,They drained the pond.,M2_b,V
+drain,They drained the pool.,M2_a,V
+draw,He drew a gun.,M1_a,V
+draw,He drew a sword.,M1_b,V
+draw,He drew a tree.,M2_a,V
+draw,They drew a picture.,M2_b,V
+dream,He had a bad dream.,M1_b,N
+dream,He had a career dream.,M2_b,N
+dream,He had a childhood dream.,M2_a,N
+dream,He had a recurring dream.,M1_a,N
+drill,It was a battery-powered drill.,M2_b,N
+drill,It was a challenging drill.,M1_b,N
+drill,It was a grueling drill.,M1_a,N
+drill,It was an electric drill.,M2_a,N
+examination,It was a difficult examination.,M1_b,N
+examination,It was a multiple-choice examination.,M1_a,N
+examination,It was a physical examination.,M2_b,N
+examination,It was a prostate examination.,M2_a,N
+fan,They had a ceiling fan.,M1_b,N
+fan,They had a zealous fan.,M2_a,N
+fan,They had an electric fan.,M1_a,N
+fan,They had an enthusiastic fan.,M2_b,N
+file,She had a data file.,M1_b,N
+file,She had a nail file.,M2_a,N
+file,She had a steel file.,M2_b,N
+file,She had a text file.,M1_a,N
+film,It was a censored film.,M1_b,N
+film,It was a plastic film.,M2_b,N
+film,It was a transparent film.,M2_a,N
+film,It was an action film.,M1_a,N
+fix,They fixed the date.,M2_a,V
+fix,They fixed the dishwasher.,M1_b,V
+fix,They fixed the price.,M2_b,V
+fix,They fixed the radio.,M1_a,V
+foundation,It was a charitable foundation.,M1_a,N
+foundation,It was a concrete foundation.,M2_b,N
+foundation,It was a wooden foundation.,M2_a,N
+foundation,It was an educational foundation.,M1_b,N
+function,It was a business function.,M2_b,N
+function,It was a linear function.,M1_b,N
+function,It was a mathematical function.,M1_a,N
+function,It was a social function.,M2_a,N
+ground,He was on the camp ground.,M2_a,N
+ground,He was on the firm ground.,M1_a,N
+ground,He was on the frozen ground.,M1_b,N
+ground,He was on the parade ground.,M2_b,N
+guard,They liked the coast guard.,M2_a,N
+guard,They liked the national guard.,M2_b,N
+guard,They liked the night guard.,M1_a,N
+guard,They liked the security guard.,M1_b,N
+guide,He had a friendly guide.,M2_b,N
+guide,He had a talkative guide.,M2_a,N
+guide,He had a TV guide.,M1_b,N
+guide,He had an assembly guide.,M1_a,N
+hail,They hailed a cab.,M1_a,V
+hail,They hailed a friend.,M2_a,V
+hail,They hailed a guest.,M2_b,V
+hail,They hailed a taxi.,M1_b,V
+home,It was a childhood home.,M1_b,N
+home,It was a funeral home.,M2_a,N
+home,It was a nursing home.,M2_b,N
+home,It was a summer home.,M1_a,N
+intelligence,They had classified intelligence.,M2_a,N
+intelligence,They had innate intelligence.,M1_b,N
+intelligence,They had military intelligence.,M2_b,N
+intelligence,They had natural intelligence.,M1_a,N
+issue,It was a political issue.,M1_b,N
+issue,It was a sensitive issue.,M1_a,N
+issue,It was a special issue.,M2_b,N
+issue,It was a weekly issue.,M2_a,N
+jam,It was a blackberry jam.,M1_a,N
+jam,It was a paper jam.,M2_b,N
+jam,It was a peach jam.,M1_b,N
+jam,It was a traffic jam.,M2_a,N
+key,It was a backspace key.,M2_b,N
+key,It was a delete key.,M2_a,N
+key,It was a duplicate key.,M1_a,N
+key,It was a master key.,M1_b,N
+lamb,They liked the cute lamb.,M2_a,N
+lamb,They liked the friendly lamb.,M2_b,N
+lamb,They liked the grilled lamb.,M1_b,N
+lamb,They liked the marinated lamb.,M1_a,N
+lap,She lapped the competitors.,M2_b,V
+lap,She lapped the milk.,M1_a,V
+lap,She lapped the runners.,M2_a,V
+lap,She lapped the water.,M1_b,V
+load,She loaded the gun.,M1_a,V
+load,She loaded the rifle.,M1_b,V
+load,She loaded the truck.,M2_a,V
+load,She loaded the van.,M2_b,V
+lock,She had brown locks.,M1_b,N
+lock,She had curly locks.,M1_a,N
+lock,She had door locks.,M2_b,N
+lock,She had window locks.,M2_a,N
+lunch,They liked the afternoon lunch.,M2_a,N
+lunch,They liked the hot lunch.,M1_a,N
+lunch,They liked the sandwich lunch.,M1_b,N
+lunch,They liked the women's lunch.,M2_b,N
+market,He liked the fish market.,M1_b,N
+market,He liked the flea market.,M1_a,N
+market,He liked the housing market.,M2_a,N
+market,He liked the stock market.,M2_b,N
+match,It was a burning match.,M1_b,N
+match,It was a lit match.,M1_a,N
+match,It was a soccer match.,M2_a,N
+match,It was a tennis match.,M2_b,N
+medicine,It was cough medicine.,M1_a,N
+medicine,It was orthopedic medicine.,M2_a,N
+medicine,It was prescription medicine.,M1_b,N
+medicine,It was veterinary medicine.,M2_b,N
+message,There was a clear message.,M2_b,N
+message,There was a computer message.,M1_b,N
+message,There was a phone message.,M1_a,N
+message,There was an urgent message.,M2_a,N
+mold,It was a clay mold.,M2_b,N
+mold,It was a fungal mold.,M1_a,N
+mold,It was a harmful mold.,M1_b,N
+mold,It was a rubber mold.,M2_a,N
+mole,She saw the cancerous mole.,M1_a,N
+mole,She saw the cute mole.,M2_a,N
+mole,She saw the fast mole.,M2_b,N
+mole,She saw the raised mole.,M1_b,N
+movement,He liked the civil-rights movement.,M2_b,N
+movement,He liked the feminist movement.,M2_a,N
+movement,He liked the graceful movement.,M1_b,N
+movement,He liked the rhythmic movement.,M1_a,N
+newspaper,It was a daily newspaper.,M1_b,N
+newspaper,It was a faded newspaper.,M2_a,N
+newspaper,It was a national newspaper.,M1_a,N
+newspaper,It was a shredded newspaper.,M2_b,N
+orange,It was a bright orange.,M2_a,N
+orange,It was a juicy orange.,M1_a,N
+orange,It was a reddish orange.,M2_b,N
+orange,It was a ripe orange.,M1_b,N
+page,He saw the blank page.,M2_a,N
+page,He saw the loyal page.,M1_b,N
+page,He saw the ripped page.,M2_b,N
+page,He saw the young page.,M1_a,N
+palm,It was a calloused palm.,M1_a,N
+palm,It was a tree palm.,M2_b,N
+palm,It was a tropical palm.,M2_a,N
+palm,It was a wrinkled palm.,M1_b,N
+panel,It was a consumer panel.,M2_b,N
+panel,It was a control panel.,M1_a,N
+panel,It was an advisory panel.,M2_a,N
+panel,It was an instrument panel.,M1_b,N
+passage,It was a biblical passage.,M2_b,N
+passage,It was a literary passage.,M2_a,N
+passage,It was a narrow passage.,M1_b,N
+passage,It was a secret passage.,M1_a,N
+pen,She penned her animals.,M1_a,V
+pen,She penned her livestock.,M1_b,V
+pen,She penned her memoirs.,M2_a,V
+pen,She penned her thoughts.,M2_b,V
+perch,It was a freshwater perch.,M1_b,N
+perch,It was a lofty perch.,M2_a,N
+perch,It was a secure perch.,M2_b,N
+perch,It was a tasty perch.,M1_a,N
+pick,He picked his coffee.,M1_a,V
+pick,He picked his dinner.,M1_b,V
+pick,He picked his nose.,M2_b,V
+pick,He picked his scab.,M2_a,V
+pitcher,He saw the fast pitcher.,M1_a,N
+pitcher,He saw the glass pitcher.,M2_a,N
+pitcher,He saw the plastic pitcher.,M2_b,N
+pitcher,He saw the right-handed pitcher.,M1_b,N
+poach,She poached the bear.,M1_b,V
+poach,She poached the deer.,M1_a,V
+poach,She poached the eggs.,M2_a,V
+poach,She poached the vegetables.,M2_b,V
+port,It was a delicious port.,M2_a,N
+port,It was a seaside port.,M1_b,N
+port,It was a sweet port.,M2_b,N
+port,It was a windy port.,M1_a,N
+position,He was in a distinguished position.,M1_a,N
+position,He was in a fetal position.,M2_a,N
+position,He was in a prominent position.,M1_b,N
+position,He was in a yoga position.,M2_b,N
+post,It was a challenging post.,M2_b,N
+post,It was a fence post.,M1_b,N
+post,It was a teaching post.,M2_a,N
+post,It was a wooden post.,M1_a,N
+punch,He had the alcoholic punch.,M1_a,N
+punch,He had the fruit punch.,M1_b,N
+punch,He had the quickest punch.,M2_b,N
+punch,He had the strongest punch.,M2_a,N
+pupil,She had a brilliant pupil.,M1_a,N
+pupil,She had a cloudy pupil.,M2_b,N
+pupil,She had a dilated pupil.,M2_a,N
+pupil,She had an interested pupil.,M1_b,N
+push,He pushed the bed.,M2_a,V
+push,He pushed the cocaine.,M1_a,V
+push,He pushed the desk.,M2_b,V
+push,He pushed the drugs.,M1_b,V
+racket,That was a badminton racket.,M2_a,N
+racket,That was a loud racket.,M1_a,N
+racket,That was a tennis racket.,M2_b,N
+racket,That was an annoying racket.,M1_b,N
+rock,He liked alternative rock.,M1_b,N
+rock,He liked electronic rock.,M1_a,N
+rock,He liked granite rock.,M2_b,N
+rock,He liked limestone rock.,M2_a,N
+run,She ran the company.,M2_b,V
+run,She ran the marathon.,M1_a,V
+run,She ran the race.,M1_b,V
+run,She ran the shop.,M2_a,V
+sage,He saw the bushy sage.,M2_b,N
+sage,He saw the fragrant sage.,M2_a,N
+sage,He saw the renowned sage.,M1_b,N
+sage,He saw the wise sage.,M1_a,N
+scale,It was a fish scale.,M1_a,N
+scale,It was a lizard scale.,M1_b,N
+scale,It was a major scale.,M2_b,N
+scale,It was a music scale.,M2_a,N
+scene,It was a nature scene.,M2_a,N
+scene,It was a panoramic scene.,M2_b,N
+scene,It was a touching scene.,M1_a,N
+scene,It was a well-acted scene.,M1_b,N
+seal,It was a certified seal.,M1_b,N
+seal,It was a circus seal.,M2_a,N
+seal,It was a gold seal.,M1_a,N
+seal,It was a trained seal.,M2_b,N
+serve,She served a lasagna.,M1_b,V
+serve,She served a pie.,M1_a,V
+serve,She served a summons.,M2_a,V
+serve,She served a warrant.,M2_b,V
+sing,The bird sang.,M2_a,V
+sing,The choir sang.,M1_b,V
+sing,The cricket sang.,M2_b,V
+sing,The girl sang.,M1_a,V
+spill,He spilled the drink.,M1_a,V
+spill,He spilled the flour.,M1_b,V
+spill,He spilled the news.,M2_a,V
+spill,He spilled the secret.,M2_b,V
+stake,He staked his claim.,M2_b,V
+stake,He staked his horse.,M1_a,V
+stake,He staked his name.,M2_a,V
+stake,He staked his tent.,M1_b,V
+stall,They stalled the bus.,M1_b,V
+stall,They stalled the horse.,M2_a,V
+stall,They stalled the pig.,M2_b,V
+stall,They stalled the truck.,M1_a,V
+stay,They stayed cold.,M1_b,V
+stay,They stayed nearby.,M2_a,V
+stay,They stayed overnight.,M2_b,V
+stay,They stayed wet.,M1_a,V
+tap,He tapped the beer.,M1_b,V
+tap,He tapped the drums.,M2_b,V
+tap,He tapped the keg.,M1_a,V
+tap,He tapped the stick.,M2_a,V
+tape,He used the double-sided tape.,M1_b,N
+tape,He used the interview tape.,M2_a,N
+tape,He used the scotch tape.,M1_a,N
+tape,He used the video tape.,M2_b,N
+term,It was a fall term.,M1_b,N
+term,It was a legal term.,M2_a,N
+term,It was a technical term.,M2_b,N
+term,It was a winter term.,M1_a,N
+tick,It was a clock tick.,M1_a,N
+tick,It was a diseased tick.,M2_b,N
+tick,It was a parasitic tick.,M2_a,N
+tick,It was an audible tick.,M1_b,N
+tip,It was a finger tip.,M2_b,N
+tip,It was a generous tip.,M1_a,N
+tip,It was a pencil tip.,M2_a,N
+tip,It was a stingy tip.,M1_b,N
+title,She liked the academic title.,M2_a,N
+title,She liked the essay title.,M1_a,N
+title,She liked the poem title.,M1_b,N
+title,She liked the professional title.,M2_b,N
+toast,They toasted the bread.,M1_a,V
+toast,They toasted the bride.,M2_b,V
+toast,They toasted the host.,M2_a,V
+toast,They toasted the strudel.,M1_b,V
+toll,It was a bell toll.,M2_b,N
+toll,It was a costly toll.,M1_a,N
+toll,It was a loud toll.,M2_a,N
+toll,It was a road toll.,M1_b,N
+track,She saw the moose tracks.,M2_a,N
+track,She saw the snowshoe tracks.,M2_b,N
+track,She saw the train tracks.,M1_a,N
+track,She saw the trolley tracks.,M1_b,N
+yard,It was five yards.,M1_a,N
+yard,It was ten yards.,M1_b,N
+yard,They were big yards.,M2_a,N
+yard,They were cluttered yards.,M2_b,N
