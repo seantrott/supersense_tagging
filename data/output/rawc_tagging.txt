@@ -308,3 +308,141 @@ It was an advisory panel.,panel,panel.n.04
 It was an instrument panel.,panel,control_panel.n.01
 It was a biblical passage.,passage,passage.n.02
 It was a literary passage.,passage,passage.n.02
+It was a narrow passage.,passage,passage.n.07
+It was a secret passage.,passage,passage.n.07
+She penned her animals.,pen,other
+She penned her livestock.,pen,other
+She penned her memoirs.,pen,write.v.01
+She penned her thoughts.,pen,write.v.01
+It was a freshwater perch.,perch,other
+It was a lofty perch.,perch,perch.n.04
+It was a secure perch.,perch,perch.n.01
+It was a tasty perch.,perch,other
+He picked his coffee.,pick,pick.v.01
+He picked his dinner.,pick,pick.v.01
+He picked his nose.,pick,clean.v.02
+He picked his scab.,pick,pick.v.05
+He saw the fast pitcher.,pitcher,pitcher.n.01
+He saw the glass pitcher.,pitcher,pitcher.n.02
+He saw the plastic pitcher.,pitcher,pitcher.n.02
+He saw the right-handed pitcher.,pitcher,pitcher.n.01
+She poached the bear.,poach,poach.v.01
+She poached the deer.,poach,poach.v.01
+She poached the eggs.,poach,poach.v.02
+She poached the vegetables.,poach,poach.v.02
+It was a delicious port.,port,port.n.02
+It was a seaside port.,port,port.n.01
+It was a sweet port.,port,port.n.02
+It was a windy port.,port,port.n.01
+He was in a distinguished position.,position,status.n.01
+He was in a fetal position.,position,position.n.04
+He was in a prominent position.,position,status.n.01
+He was in a yoga position.,position,position.n.04
+It was a challenging post.,post,position.n.06
+It was a fence post.,post,post.n.04
+It was a teaching post.,post,position.n.06
+It was a wooden post.,post,post.n.04
+He had the alcoholic punch.,punch,punch.n.02
+He had the fruit punch.,punch,punch.n.02
+He had the quickest punch.,punch,punch.n.01
+He had the strongest punch.,punch,punch.n.01
+She had a brilliant pupil.,pupil,student.n.01
+She had a cloudy pupil.,pupil,pupil.n.02
+She had a dilated pupil.,pupil,pupil.n.02
+She had an interested pupil.,pupil,student.n.01
+He pushed the bed.,push,push.v.01
+He pushed the cocaine.,push,push.v.08
+He pushed the desk.,push,push.v.01
+He pushed the drugs.,push,push.v.08
+That was a badminton racket.,racket,racket.n.04
+That was a loud racket.,racket,racket.n.01
+That was a tennis racket.,racket,racket.n.04
+That was an annoying racket.,racket,racket.n.01
+He liked alternative rock.,rock,rock_'n'_roll.n.01
+He liked electronic rock.,rock,rock_'n'_roll.n.01
+He liked granite rock.,rock,rock.n.01
+He liked limestone rock.,rock,rock.n.02
+She ran the company.,run,operate.v.01
+She ran the marathon.,run,run.v.03
+She ran the race.,run,run.v.01
+She ran the shop.,run,operate.v.01
+He saw the bushy sage.,sage,other
+He saw the fragrant sage.,sage,sage.n.02
+He saw the renowned sage.,sage,sage.n.01
+He saw the wise sage.,sage,sage.n.01
+It was a fish scale.,scale,scale.n.07
+It was a lizard scale.,scale,scale.n.10
+It was a major scale.,scale,scale.n.06
+It was a music scale.,scale,scale.n.06
+It was a nature scene.,scene,view.n.02
+It was a panoramic scene.,scene,view.n.02
+It was a touching scene.,scene,scene.n.04
+It was a well-acted scene.,scene,scene.n.04
+It was a certified seal.,seal,seal.n.05
+It was a circus seal.,seal,seal.n.09
+It was a gold seal.,seal,seal.n.05
+It was a trained seal.,seal,seal.n.09
+She served a lasagna.,serve,serve.v.06
+She served a pie.,serve,serve.v.06
+She served a summons.,serve,serve.v.11
+She served a warrant.,serve,serve.v.11
+The bird sang.,sing,whistle.v.05
+The choir sang.,sing,sing.v.02
+The cricket sang.,sing,whistle.v.05
+The girl sang.,sing,sing.v.02
+He spilled the drink.,spill,spill.v.01
+He spilled the flour.,spill,spill.v.03
+He spilled the news.,spill,spill.v.05
+He spilled the secret.,spill,spill.v.05
+He staked his claim.,stake,other
+He staked his horse.,stake,stake.v.04
+He staked his name.,stake,other
+He staked his tent.,stake,stake.v.04
+They stalled the bus.,stall,other
+They stalled the horse.,stall,stall.v.04
+They stalled the pig.,stall,stall.v.04
+They stalled the truck.,stall,stall.v.02
+They stayed cold.,stay,stay.v.01
+They stayed nearby.,stay,stay.v.02
+They stayed overnight.,stay,stay.v.02
+They stayed wet.,stay,stay.v.04
+He tapped the beer.,tap,other
+He tapped the drums.,tap,tap.v.03
+He tapped the keg.,tap,tap.v.06
+He tapped the stick.,tap,tap.v.03
+He used the double-sided tape.,tape,tape.n.01
+He used the interview tape.,tape,tape.n.02
+He used the scotch tape.,tape,tape.n.01
+He used the video tape.,tape,tape.n.02
+It was a fall term.,term,term.n.02
+It was a legal term.,term,term.n.01
+It was a technical term.,term,term.n.01
+It was a winter term.,term,term.n.02
+It was a clock tick.,tick,tick.n.01
+It was a diseased tick.,tick,tick.n.02
+It was a parasitic tick.,tick,tick.n.02
+It was an audible tick.,tick,tick.n.01
+It was a finger tip.,tip,tip.n.01
+It was a generous tip.,tip,gratuity.n.01
+It was a pencil tip.,tip,tip.n.01
+It was a stingy tip.,tip,gratuity.n.01
+She liked the academic title.,title,title.n.06
+She liked the essay title.,title,title.n.02
+She liked the poem title.,title,title.n.02
+She liked the professional title.,title,title.n.06
+They toasted the bread.,toast,crispen.v.01
+They toasted the bride.,toast,toast.v.02
+They toasted the host.,toast,toast.v.02
+They toasted the strudel.,toast,crispen.v.01
+It was a bell toll.,toll,bell.n.03
+It was a costly toll.,toll,toll.n.01
+It was a loud toll.,toll,bell.n.03
+It was a road toll.,toll,toll.n.01
+She saw the moose tracks.,track,path.n.04
+She saw the snowshoe tracks.,track,path.n.04
+She saw the train tracks.,track,track.n.09
+She saw the trolley tracks.,track,track.n.09
+It was five yards.,yard,yard.n.01
+It was ten yards.,yard,yard.n.01
+They were big yards.,yard,yard.n.02
+They were cluttered yards.,yard,yard.n.09
