@@ -1,0 +1,448 @@
+He saw a fruit bat.,bat,bat.n.01
+He saw a furry bat.,bat,bat.n.01
+He saw a baseball bat.,bat,bat.n.05
+He saw a wooden bat.,bat,bat.n.05
+It was a comedic act.,act,act.n.04
+It was a desperate act.,act,act.n.02
+It was a humane act.,act,act.n.02
+It was a magic act.,act,act.n.04
+He had a legal appeal.,appeal,appeal.n.03
+He had a pending appeal.,appeal,appeal.n.03
+He had a universal appeal.,appeal,appeal.n.02
+He had an undefinable appeal.,appeal,appeal.n.02
+It was a gaseous atmosphere.,atmosphere,atmosphere.n.05
+It was a hostile atmosphere.,atmosphere,atmosphere.n.01
+It was a polluted atmosphere.,atmosphere,atmosphere.n.04
+It was a tense atmosphere.,atmosphere,atmosphere.n.01
+He bailed out the defendant.,bail,bail.v.01
+He bailed out the liquid.,bail,bail.v.05
+He bailed out the prisoner.,bail,bail.v.01
+He bailed out the water.,bail,bail.v.05
+It was a country band.,band,dance_band.n.01
+It was a gold band.,band,ring.n.08
+It was a jazz band.,band,band.n.02
+It was a rubber band.,band,band.n.11
+He banked the cash.,bank,deposit.v.02
+He banked the helicopter.,bank,bank.v.01
+He banked the money.,bank,deposit.v.02
+He banked the plane.,bank,bank.v.01
+There was a concrete barrier.,barrier,barrier.n.03
+There was a language barrier.,barrier,barrier.n.02
+There was a police barrier.,barrier,barrier.n.01
+There was a religious barrier.,barrier,barrier.n.02
+He saw the balance beam.,beam,balance_beam.n.01
+He saw the bright beam.,beam,beam.n.04
+He saw the laser beam.,beam,beam.n.03
+He saw the wood beam.,beam,beam.n.02
+She had a mental block.,block,block.n.07
+She had a toy block.,block,block.n.03
+She had a wooden block.,block,block.n.01
+She had a writer's block.,block,block.n.07
+He has coagulated blood.,blood,blood.n.01
+He has noble blood.,blood,blood.n.02
+He has royal blood.,blood,lineage.n.01
+He has thin blood.,blood,blood.n.01
+It was the executive board.,board,board.n.01
+It was the ironing board.,board,board.n.03
+It was the school board.,board,board.n.01
+It was the wooden board.,board,board.n.02
+He had a best-selling book.,book,book.n.01
+He had a heavy book.,book,other
+He had a leather-bound book.,book,other
+He had a popular book.,book,other
+He broke the dish.,break,break.v.05
+He broke the glass.,break,break.v.05
+He broke the law.,break,transgress.v.01
+He broke the promise.,break,violate.v.01
+They ate a family breakfast.,breakfast,breakfast.n.01
+They ate a lonely breakfast.,breakfast,breakfast.n.01
+They ate a nutritious breakfast.,breakfast,breakfast.n.01
+They ate a pancake breakfast.,breakfast,breakfast.n.01
+They called the debt.,call,other
+They called the landlord.,call,call.v.03
+They called the loan.,call,other
+They called the police.,call,call.v.03
+It was a flowing cape.,cape,cape.n.02
+It was a red cape.,cape,cape.n.02
+It was a rocky cape.,cape,cape.n.01
+It was an island cape.,cape,cape.n.01
+It was a beer case.,case,case.n.05
+It was a criminal case.,case,lawsuit.n.01
+It was a display case.,case,case.n.20
+It was a divorce case.,case,lawsuit.n.01
+She cast a glow.,cast,project.v.10
+She cast a shadow.,cast,project.v.10
+She cast a spear.,cast,hurl.v.01
+She cast a stone.,cast,hurl.v.01
+It was a main cause.,cause,other
+It was a political cause.,cause,campaign.n.02
+It was a primary cause.,cause,causal_agent.n.01
+It was a worthy cause.,cause,cause.n.02
+It was a brain cell.,cell,cell.n.02
+It was a jail cell.,cell,cell.n.07
+It was a prison cell.,cell,cell.n.07
+It was a skin cell.,cell,cell.n.02
+She had a devilish charm.,charm,appeal.n.02
+She had a gold charm.,charm,charm.n.03
+She had a good-luck charm.,charm,charm.n.03
+She had a natural charm.,charm,appeal.n.02
+He checked the alibi.,check,check.v.01
+He checked the engine.,check,check.v.02
+He checked the facts.,check,check.v.01
+He checked the oven.,check,check.v.08
+They liked the clucking chicken.,chicken,chicken.n.02
+They liked the juicy chicken.,chicken,chicken.n.01
+They liked the pet chicken.,chicken,chicken.n.02
+They liked the roasted chicken.,chicken,chicken.n.01
+It was a boring class.,class,course.n.01
+It was a misbehaving class.,class,class.n.02
+It was a perceptive class.,class,other
+It was a stimulating class.,class,course.n.01
+He cleared the desk.,clear,unclutter.v.01
+He cleared the path.,clear,clear.v.02
+He cleared the road.,clear,clear.v.02
+He cleared the shelf.,clear,unclutter.v.01
+It was a film clip.,clip,time.n.01
+It was a hair clip.,clip,clip.n.04
+It was a metal clip.,clip,clip.n.03
+It was a video clip.,clip,time.n.01
+The choreographer clogged.,clog,clog.v.02
+The dancer clogged.,clog,clog.v.02
+The pipe clogged.,clog,clog.v.01
+The sink clogged.,clog,other
+It was a chest cold.,cold,cold.n.01
+It was a common cold.,cold,cold.n.01
+It was a freezing cold.,cold,cold.n.03
+It was an icy cold.,cold,cold.n.03
+It was a concrete column.,column,other
+It was a gossip column.,column,column.n.05
+It was a marble column.,column,other
+It was a sports column.,column,column.n.05
+He liked the investment company.,company,company.n.01
+He liked the pharmaceutical company.,company,company.n.01
+He liked the pleasant company.,company,company.n.03
+He liked the polite company.,company,company.n.03
+It was a sugar cone.,cone,cone.n.02
+It was a traffic cone.,cone,cone.n.02
+It was a waffle cone.,cone,cone.n.02
+It was an orange cone.,cone,cone.n.02
+He made a charitable contribution.,contribution,other
+He made a scholarly contribution.,contribution,contribution.n.05
+He made a voluntary contribution.,contribution,contribution.n.02
+He made a well-written contribution.,contribution,contribution.n.05
+That was the correct count.,count,count.n.01
+That was the final count.,count,count.n.01
+That was the noble count.,count,count.n.03
+That was the vengeful count.,count,count.n.03
+It was a charted course.,course,path.n.04
+It was a collision course.,course,path.n.04
+It was a pass-fail course.,course,course.n.01
+It was an introductory course.,course,course.n.01
+He crossed a friend.,cross,thwart.v.01
+He crossed a road.,cross,traverse.v.01
+He crossed a room.,cross,traverse.v.01
+He crossed an enemy.,cross,thwart.v.01
+It was a blind date.,date,date.n.03
+It was a dinner date.,date,date.n.03
+It was a historical date.,date,date.n.06
+It was an expiration date.,date,date.n.07
+It was about associate degrees.,degree,academic_degree.n.01
+It was about college degrees.,degree,academic_degree.n.01
+It was about fifty degrees.,degree,other
+It was about forty degrees.,degree,other
+They liked the architectural design.,design,blueprint.n.01
+They liked the floral design.,design,design.n.02
+They liked the geometric design.,design,other
+They liked the product design.,design,design.n.01
+They liked the anniversary dinner.,dinner,dinner.n.02
+They liked the formal dinner.,dinner,dinner.n.02
+They liked the light dinner.,dinner,dinner.n.01
+They liked the turkey dinner.,dinner,other
+They drained the account.,drain,drain.v.02
+They drained the budget.,drain,drain.v.02
+They drained the pond.,drain,drain.v.03
+They drained the pool.,drain,drain.v.03
+He drew a gun.,draw,draw.v.05
+He drew a sword.,draw,draw.v.05
+He drew a tree.,draw,draw.v.06
+They drew a picture.,draw,draw.v.06
+He had a bad dream.,dream,dream.n.01
+He had a career dream.,dream,ambition.n.01
+He had a childhood dream.,dream,ambition.n.01
+He had a recurring dream.,dream,dream.n.01
+It was a battery-powered drill.,drill,drill.n.01
+It was a challenging drill.,drill,exercise.n.03
+It was a grueling drill.,drill,exercise.n.03
+It was an electric drill.,drill,drill.n.01
+It was a difficult examination.,examination,examination.n.05
+It was a multiple-choice examination.,examination,examination.n.05
+It was a physical examination.,examination,examination.n.01
+It was a prostate examination.,examination,examination.n.01
+They had a ceiling fan.,fan,fan.n.01
+They had a zealous fan.,fan,fan.n.03
+They had an electric fan.,fan,fan.n.01
+They had an enthusiastic fan.,fan,sports_fan.n.01
+She had a data file.,file,file.n.01
+She had a nail file.,file,file.n.04
+She had a steel file.,file,file.n.04
+She had a text file.,file,file.n.01
+It was a censored film.,film,movie.n.01
+It was a plastic film.,film,film.n.05
+It was a transparent film.,film,film.n.05
+It was an action film.,film,movie.n.01
+They fixed the date.,fix,specify.v.02
+They fixed the dishwasher.,fix,repair.v.01
+They fixed the price.,fix,specify.v.02
+They fixed the radio.,fix,repair.v.01
+It was a charitable foundation.,foundation,foundation.n.02
+It was a concrete foundation.,foundation,foundation.n.01
+It was a wooden foundation.,foundation,foundation.n.03
+It was an educational foundation.,foundation,foundation.n.02
+It was a business function.,function,function.n.05
+It was a linear function.,function,function.n.01
+It was a mathematical function.,function,function.n.01
+It was a social function.,function,affair.n.03
+He was on the camp ground.,ground,land.n.04
+He was on the firm ground.,ground,land.n.04
+He was on the frozen ground.,ground,land.n.04
+He was on the parade ground.,ground,land.n.04
+They liked the coast guard.,guard,guard.n.06
+They liked the national guard.,guard,guard.n.06
+They liked the night guard.,guard,guard.n.01
+They liked the security guard.,guard,guard.n.01
+He had a friendly guide.,guide,usher.n.03
+He had a talkative guide.,guide,usher.n.03
+He had a TV guide.,guide,guidebook.n.01
+He had an assembly guide.,guide,guidebook.n.01
+They hailed a cab.,hail,hail.v.03
+They hailed a friend.,hail,acclaim.v.01
+They hailed a guest.,hail,hail.v.04
+They hailed a taxi.,hail,hail.v.03
+It was a childhood home.,home,home.n.01
+It was a funeral home.,home,home.n.09
+It was a nursing home.,home,home.n.09
+It was a summer home.,home,home.n.01
+They had classified intelligence.,intelligence,intelligence.n.03
+They had innate intelligence.,intelligence,intelligence.n.01
+They had military intelligence.,intelligence,intelligence.n.03
+They had natural intelligence.,intelligence,intelligence.n.01
+It was a political issue.,issue,issue.n.01
+It was a sensitive issue.,issue,topic.n.02
+It was a special issue.,issue,other
+It was a weekly issue.,issue,issue.n.02
+It was a blackberry jam.,jam,jam.n.01
+It was a paper jam.,jam,other
+It was a peach jam.,jam,jam.n.01
+It was a traffic jam.,jam,crush.n.02
+It was a backspace key.,key,key.n.15
+It was a delete key.,key,key.n.15
+It was a duplicate key.,key,other
+It was a master key.,key,key.n.01
+They liked the cute lamb.,lamb,lamb.n.01
+They liked the friendly lamb.,lamb,lamb.n.01
+They liked the grilled lamb.,lamb,lamb.n.05
+They liked the marinated lamb.,lamb,lamb.n.05
+She lapped the competitors.,lap,other
+She lapped the milk.,lap,lick.v.02
+She lapped the runners.,lap,other
+She lapped the water.,lap,lick.v.02
+She loaded the gun.,load,load.v.02
+She loaded the rifle.,load,load.v.02
+She loaded the truck.,load,load.v.01
+She loaded the van.,load,load.v.01
+She had brown locks.,lock,lock.n.02
+She had curly locks.,lock,lock.n.02
+She had door locks.,lock,lock.n.01
+She had window locks.,lock,lock.n.01
+They liked the afternoon lunch.,lunch,lunch.n.01
+They liked the hot lunch.,lunch,lunch.n.01
+They liked the sandwich lunch.,lunch,lunch.n.01
+They liked the women's lunch.,lunch,lunch.n.01
+He liked the fish market.,market,grocery_store.n.01
+He liked the flea market.,market,marketplace.n.02
+He liked the housing market.,market,market.n.04
+He liked the stock market.,market,market.n.04
+It was a burning match.,match,match.n.01
+It was a lit match.,match,match.n.01
+It was a soccer match.,match,match.n.02
+It was a tennis match.,match,match.n.02
+It was cough medicine.,medicine,medicine.n.02
+It was orthopedic medicine.,medicine,medicine.n.03
+It was prescription medicine.,medicine,medicine.n.02
+It was veterinary medicine.,medicine,medicine.n.03
+There was a clear message.,message,message.n.02
+There was a computer message.,message,message.n.01
+There was a phone message.,message,message.n.01
+There was an urgent message.,message,message.n.02
+It was a clay mold.,mold,cast.n.03
+It was a fungal mold.,mold,mold.n.05
+It was a harmful mold.,mold,mildew.n.01
+It was a rubber mold.,mold,cast.n.03
+She saw the cancerous mole.,mole,mole.n.04
+She saw the cute mole.,mole,mole.n.06
+She saw the fast mole.,mole,mole.n.06
+She saw the raised mole.,mole,other
+He liked the civil-rights movement.,movement,campaign.n.02
+He liked the feminist movement.,movement,campaign.n.02
+He liked the graceful movement.,movement,motion.n.06
+He liked the rhythmic movement.,movement,motion.n.06
+It was a daily newspaper.,newspaper,newspaper.n.01
+It was a faded newspaper.,newspaper,newspaper.n.03
+It was a national newspaper.,newspaper,newspaper.n.01
+It was a shredded newspaper.,newspaper,newspaper.n.04
+It was a bright orange.,orange,orange.n.02
+It was a juicy orange.,orange,orange.n.01
+It was a reddish orange.,orange,orange.n.02
+It was a ripe orange.,orange,orange.n.01
+He saw the blank page.,page,page.n.01
+He saw the loyal page.,page,page.n.06
+He saw the ripped page.,page,page.n.01
+He saw the young page.,page,page.n.04
+It was a calloused palm.,palm,palm.n.01
+It was a tree palm.,palm,palm.n.03
+It was a tropical palm.,palm,palm.n.03
+It was a wrinkled palm.,palm,palm.n.01
+It was a consumer panel.,panel,panel.n.04
+It was a control panel.,panel,control_panel.n.01
+It was an advisory panel.,panel,panel.n.04
+It was an instrument panel.,panel,control_panel.n.01
+It was a biblical passage.,passage,passage.n.02
+It was a literary passage.,passage,passage.n.02
+It was a narrow passage.,passage,passage.n.07
+It was a secret passage.,passage,passage.n.07
+She penned her animals.,pen,other
+She penned her livestock.,pen,other
+She penned her memoirs.,pen,write.v.01
+She penned her thoughts.,pen,write.v.01
+It was a freshwater perch.,perch,other
+It was a lofty perch.,perch,perch.n.04
+It was a secure perch.,perch,perch.n.01
+It was a tasty perch.,perch,other
+He picked his coffee.,pick,pick.v.01
+He picked his dinner.,pick,pick.v.01
+He picked his nose.,pick,clean.v.02
+He picked his scab.,pick,pick.v.05
+He saw the fast pitcher.,pitcher,pitcher.n.01
+He saw the glass pitcher.,pitcher,pitcher.n.02
+He saw the plastic pitcher.,pitcher,pitcher.n.02
+He saw the right-handed pitcher.,pitcher,pitcher.n.01
+She poached the bear.,poach,poach.v.01
+She poached the deer.,poach,poach.v.01
+She poached the eggs.,poach,poach.v.02
+She poached the vegetables.,poach,poach.v.02
+It was a delicious port.,port,port.n.02
+It was a seaside port.,port,port.n.01
+It was a sweet port.,port,port.n.02
+It was a windy port.,port,port.n.01
+He was in a distinguished position.,position,status.n.01
+He was in a fetal position.,position,position.n.04
+He was in a prominent position.,position,status.n.01
+He was in a yoga position.,position,position.n.04
+It was a challenging post.,post,position.n.06
+It was a fence post.,post,post.n.04
+It was a teaching post.,post,position.n.06
+It was a wooden post.,post,post.n.04
+He had the alcoholic punch.,punch,punch.n.02
+He had the fruit punch.,punch,punch.n.02
+He had the quickest punch.,punch,punch.n.01
+He had the strongest punch.,punch,punch.n.01
+She had a brilliant pupil.,pupil,student.n.01
+She had a cloudy pupil.,pupil,pupil.n.02
+She had a dilated pupil.,pupil,pupil.n.02
+She had an interested pupil.,pupil,student.n.01
+He pushed the bed.,push,push.v.01
+He pushed the cocaine.,push,push.v.08
+He pushed the desk.,push,push.v.01
+He pushed the drugs.,push,push.v.08
+That was a badminton racket.,racket,racket.n.04
+That was a loud racket.,racket,racket.n.01
+That was a tennis racket.,racket,racket.n.04
+That was an annoying racket.,racket,racket.n.01
+He liked alternative rock.,rock,rock_'n'_roll.n.01
+He liked electronic rock.,rock,rock_'n'_roll.n.01
+He liked granite rock.,rock,rock.n.01
+He liked limestone rock.,rock,rock.n.02
+She ran the company.,run,operate.v.01
+She ran the marathon.,run,run.v.03
+She ran the race.,run,run.v.01
+She ran the shop.,run,operate.v.01
+He saw the bushy sage.,sage,other
+He saw the fragrant sage.,sage,sage.n.02
+He saw the renowned sage.,sage,sage.n.01
+He saw the wise sage.,sage,sage.n.01
+It was a fish scale.,scale,scale.n.07
+It was a lizard scale.,scale,scale.n.10
+It was a major scale.,scale,scale.n.06
+It was a music scale.,scale,scale.n.06
+It was a nature scene.,scene,view.n.02
+It was a panoramic scene.,scene,view.n.02
+It was a touching scene.,scene,scene.n.04
+It was a well-acted scene.,scene,scene.n.04
+It was a certified seal.,seal,seal.n.05
+It was a circus seal.,seal,seal.n.09
+It was a gold seal.,seal,seal.n.05
+It was a trained seal.,seal,seal.n.09
+She served a lasagna.,serve,serve.v.06
+She served a pie.,serve,serve.v.06
+She served a summons.,serve,serve.v.11
+She served a warrant.,serve,serve.v.11
+The bird sang.,sing,whistle.v.05
+The choir sang.,sing,sing.v.02
+The cricket sang.,sing,whistle.v.05
+The girl sang.,sing,sing.v.02
+He spilled the drink.,spill,spill.v.01
+He spilled the flour.,spill,spill.v.03
+He spilled the news.,spill,spill.v.05
+He spilled the secret.,spill,spill.v.05
+He staked his claim.,stake,other
+He staked his horse.,stake,stake.v.04
+He staked his name.,stake,other
+He staked his tent.,stake,stake.v.04
+They stalled the bus.,stall,other
+They stalled the horse.,stall,stall.v.04
+They stalled the pig.,stall,stall.v.04
+They stalled the truck.,stall,stall.v.02
+They stayed cold.,stay,stay.v.01
+They stayed nearby.,stay,stay.v.02
+They stayed overnight.,stay,stay.v.02
+They stayed wet.,stay,stay.v.04
+He tapped the beer.,tap,other
+He tapped the drums.,tap,tap.v.03
+He tapped the keg.,tap,tap.v.06
+He tapped the stick.,tap,tap.v.03
+He used the double-sided tape.,tape,tape.n.01
+He used the interview tape.,tape,tape.n.02
+He used the scotch tape.,tape,tape.n.01
+He used the video tape.,tape,tape.n.02
+It was a fall term.,term,term.n.02
+It was a legal term.,term,term.n.01
+It was a technical term.,term,term.n.01
+It was a winter term.,term,term.n.02
+It was a clock tick.,tick,tick.n.01
+It was a diseased tick.,tick,tick.n.02
+It was a parasitic tick.,tick,tick.n.02
+It was an audible tick.,tick,tick.n.01
+It was a finger tip.,tip,tip.n.01
+It was a generous tip.,tip,gratuity.n.01
+It was a pencil tip.,tip,tip.n.01
+It was a stingy tip.,tip,gratuity.n.01
+She liked the academic title.,title,title.n.06
+She liked the essay title.,title,title.n.02
+She liked the poem title.,title,title.n.02
+She liked the professional title.,title,title.n.06
+They toasted the bread.,toast,crispen.v.01
+They toasted the bride.,toast,toast.v.02
+They toasted the host.,toast,toast.v.02
+They toasted the strudel.,toast,crispen.v.01
+It was a bell toll.,toll,bell.n.03
+It was a costly toll.,toll,toll.n.01
+It was a loud toll.,toll,bell.n.03
+It was a road toll.,toll,toll.n.01
+She saw the moose tracks.,track,path.n.04
+She saw the snowshoe tracks.,track,path.n.04
+She saw the train tracks.,track,track.n.09
+She saw the trolley tracks.,track,track.n.09
+It was five yards.,yard,yard.n.01
+It was ten yards.,yard,yard.n.01
+They were big yards.,yard,yard.n.02
+They were cluttered yards.,yard,yard.n.09
